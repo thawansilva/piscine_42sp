@@ -1,5 +1,5 @@
 # Piscine 42SP
-** Version: April 2025 **
+**Version: April 2025**
 Reference repository of all projects I did in 42SP;
 
 [shell00](#shell00),
