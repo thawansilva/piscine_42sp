@@ -51,7 +51,6 @@ Reference repository of all projects I did in 42SP;
 - [ex05: ft_print_comb](/C00/ex05/ft_print_comb.c)
 - [ex06: ft_print_comb2](/C00/ex06/ft_print_comb2.c)
 - [ex07: ft_putnbr](/C00/ex07/ft_putnbr.c)
-- [ex08: ft_print_combn](/C00/ex08/ft_print_combn.c)
 
 ## C01
 
