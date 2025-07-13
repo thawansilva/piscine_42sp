@@ -173,4 +173,3 @@ Reference repository of all projects I did in 42SP;
 - [ex12: ft_list_remove_if](/C12/ex12/ft_list_remove_if.c)
 - [ex13: ft_list_merge](/C12/ex13/ft_list_merge.c)
 - [ex14: ft_list_sort](/C12/ex14/ft_list_sort.c)
-- [ex15: ft_list_reverse_fun](/C12/ex15/ft_list_reverse_fun.c)
